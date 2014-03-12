@@ -37,4 +37,4 @@
 [push]
     default = tracking
 [include]
-    path = gitconfig-local
+    path = ~/.config/git/gitconfig-local
