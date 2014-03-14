@@ -14,3 +14,9 @@ Copy all the files in the new git directory.
     cd ~
     ln -s .config/git/gitconfig .gitconfig
     ln -s .config/git .gitconf
+
+Create ~/.config/git/gitconfig-local with this content:
+
+    [user]
+        name = Your Name
+        email = you@example.com
